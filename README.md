@@ -10,7 +10,7 @@ Priorities change from person-to-person, but here are the priorities when ***pro
 Obviously, we want the Robot to actually work, but readability is higher than efficiency, since other people are going to have to understand your code. Making your code take up less lines or characters does not matter, code can still be extremely length but very efficient.
 
 Here are some basic ground rules regarding how code is published to this ***Github repo***:
-- There is a new branch for every year, so make sure you push to the right one
+- There is a new branch for every year, so make sure you push to the right one. The branch year is the year of the tournament, which should be the second calendar year of the school year.
 - New features are to be made under Pull Requests, NOT DIRECTLY TO THE BRANCH
 - Do not push unless you have permission from the Software Lead
 
