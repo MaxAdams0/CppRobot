@@ -14,20 +14,6 @@ Here are some basic ground rules regarding how code is published to this ***Gith
 - New features are to be made under Pull Requests, NOT DIRECTLY TO THE BRANCH
 - Do not push unless you have permission from the Software Lead
 
-# Extra C++ Help
-These are more complex parts of C++ that may not be explained in-person for the sake or time or ease-of-teaching. However, there shouldn't be anything extremely complicated withing the code, either.
-
-## Arrow Operators (`->`)
-Arrow Operators are used to access members of a structure through a pointer. This is very similar to Dot Operators, except it uses pointers and does not copy the value.
-
-## Structures (`struct`)
-A structure, also knows as a struct in syntax, is a way to group several related variables into one place. For example, a struct 'Student' could have an `string 'name'`, `integer 'grade'`, and `double 'GPA'`.
-
-A member is simply a variable that is define (notice I didn't say initialized), in the struct.
-
-## Pointers (`*`)
-A pointer is simply a reference in memory to a value. So, if you had an `integer 'GPA'`, a pointer could look in memory, find the variable, and grab its value without having to actually store that value anywhere. This is way more memory efficient, which is why it is used.
-
 # Recources
 Random recources, categorized by what they are for. These could be for programming, or just the robot as a whole.
 
