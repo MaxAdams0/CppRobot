@@ -1,5 +1,5 @@
 # CppRobot
-Simply, this is the C++ version of Alpha Knights (FRC Team 6695)'s robot. The goal is to have this be the standard, and be the most accessible to newcomers has possible.
+Simply, this is the C++ version of Alpha Knights (FRC Team 6695)'s robot. The goal is to have this be the standard, and be the most accessible to newcomers has possible. As a part of that goal, please [read the wiki!](https://github.com/MaxAdams0/CppRobot/wiki)
 
 ## Contributing
 Priorities change from person-to-person, but here are the priorities when ***programming***:
